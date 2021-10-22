@@ -1,6 +1,6 @@
 class Main {
   public static void main(String[] args) {
-    Hero hero = new Hero("Marsani", 35);
+    Hero hero = new Hero("Sekar Syafira", 21);
 
     hero.player();
 
