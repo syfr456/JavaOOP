@@ -4,6 +4,7 @@ public class Human {
 
     public void walk() {
         System.out.println(name + " sedang berjalan...");
+
     }
 
 }
